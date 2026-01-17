@@ -19,6 +19,24 @@ This project addresses that gap.
 
 ---
 
+## 📌 Portfolio Summary (Why This Project Matters)
+
+This project demonstrates a **practical, enterprise-ready agentic AI system** designed for SLA root cause analysis with built-in safety, governance, and human oversight.
+
+The system goes beyond basic automation by:
+- Separating **judgment, critique, and control**
+- Using **confidence and risk-aware escalation** instead of blind autonomy
+- Incorporating a **critic agent** to surface blind spots
+- Ensuring **human-in-the-loop decisions** for high-risk or uncertain cases
+- Treating memory as **advisory**, not authoritative
+
+This approach reflects real-world operational constraints faced by PMO, service delivery, and operations teams.
+
+📄 **1-page Portfolio Summary:**  
+[View detailed portfolio summary](./Agentic_AI_Portfolio_Summary_Gagandeep_Singh.pdf)
+
+---
+
 ## What the System Does
 The agent:
 - Analyzes SLA breach patterns from structured data
