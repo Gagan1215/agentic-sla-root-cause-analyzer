@@ -33,7 +33,7 @@ The system goes beyond basic automation by:
 This approach reflects real-world operational constraints faced by PMO, service delivery, and operations teams.
 
 📄 **1-page Portfolio Summary:**  
-[View detailed portfolio summary](./Agentic_AI_Portfolio_Summary_Gagandeep_Singh.pdf)
+[View detailed portfolio summary](Agentic_AI_Portfolio_Summary.pdf)
 
 ---
 
